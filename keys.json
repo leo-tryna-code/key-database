@@ -1,5 +1,6 @@
 {
-    "Key":  "ZT7A1Q3k",
-    "HWID":  null,
-    "Expiry":  "2025-05-28"
+  "KEY123": {
+    "expiry": 1717404800000,
+    "hwid": ""
+  }
 }
